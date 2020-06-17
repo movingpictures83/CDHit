@@ -1,0 +1,2 @@
+Prefix plugins/CDHit/example
+Plugin CDHit inputfile HMP_MOCK.v35.fasta outputfile clusters.txt

@@ -1,0 +1,47 @@
+>Cluster 0
+0	542aa, >B.cereus.1... *
+1	541aa, >E.faecalis.1... at 93.35%
+2	541aa, >E.faecalis.2... at 93.35%
+3	541aa, >L.monocytogenes.1... at 92.24%
+4	541aa, >S.aureus.1... at 93.72%
+5	541aa, >S.aureus.5... at 93.53%
+6	541aa, >S.epidermidis.1... at 93.90%
+7	541aa, >S.epidermidis.2... at 93.72%
+8	541aa, >S.epidermidis.5... at 93.72%
+>Cluster 1
+0	541aa, >A.baumannii.1... *
+>Cluster 2
+0	541aa, >L.gasseri.1... *
+>Cluster 3
+0	541aa, >S.agalactiae.1... *
+1	541aa, >S.mutans.1... at 92.79%
+2	541aa, >S.pneumoniae.1... at 94.09%
+>Cluster 4
+0	540aa, >E.coli.1... *
+>Cluster 5
+0	540aa, >N.meningitidis.1... *
+>Cluster 6
+0	540aa, >P.aeruginosa.1... *
+1	540aa, >P.aeruginosa.2... at 99.81%
+>Cluster 7
+0	534aa, >A.odontolyticus.1... *
+>Cluster 8
+0	534aa, >P.gingivalis.1... *
+>Cluster 9
+0	532aa, >B.vulgatus.1... *
+1	532aa, >B.vulgatus.2... at 99.44%
+2	532aa, >B.vulgatus.4... at 99.06%
+3	532aa, >B.vulgatus.5... at 99.25%
+4	532aa, >B.vulgatus.7... at 99.06%
+>Cluster 10
+0	524aa, >D.radiodurans.1... *
+>Cluster 11
+0	522aa, >P.acnes.1... *
+>Cluster 12
+0	517aa, >H.pylori.1... *
+>Cluster 13
+0	515aa, >C.beijerinckii.1... *
+1	515aa, >C.beijerinckii.3... at 99.81%
+2	515aa, >C.beijerinckii.4... at 99.81%
+>Cluster 14
+0	514aa, >R.sphaeroides.1... *
