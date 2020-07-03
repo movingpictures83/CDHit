@@ -1,7 +1,9 @@
+# CDHit
 # Language: C++
 # Input: FASTA
-# Output: prefix
+# Output: TXT
 # Tested with: PluMA 1.0, GCC 4.8.4
+# Dependency: CD-HIT 4.8.1
 
 PluMA plugin to run the cd-hit clustering algorithm (Li and Godzik, 2006)
 on a set of sequences.
